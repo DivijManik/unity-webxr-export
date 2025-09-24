@@ -1,3 +1,5 @@
+## *Stable for Unity 2022 to Unity 6*
+
 # [WebXR Export](https://github.com/De-Panther/unity-webxr-export/)
 
 You can [check the live demo here](https://de-panther.github.io/unity-webxr-export/Build).
